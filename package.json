@@ -6,6 +6,10 @@
   "repository": "https://github.com/alxayeed/realtime-pizza-node-express",
   "author": "alxayeed <alxayeed@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "serve": "node server.js",
+    "dev": "nodemon server.js"
+  },
   "dependencies": {
     "ejs": "^3.1.5",
     "express": "^4.17.1",

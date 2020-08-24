@@ -1,0 +1,9 @@
+{
+  "name": "pizza-app",
+  "version": "1.0.0",
+  "description": "real time pizza app using node.js, expressjs, tailwand",
+  "main": "index.js",
+  "repository": "https://github.com/alxayeed/realtime-pizza-node-express",
+  "author": "alxayeed <alxayeed@gmail.com>",
+  "license": "MIT"
+}
